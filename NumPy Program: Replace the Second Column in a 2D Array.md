@@ -25,7 +25,9 @@ print(np.insert(c,1,b,axis=1))
 ```
 ## Output
 
-![image](https://github.com/user-attachments/assets/9049c567-4156-46c6-baca-69aa99df4bd8)
+
+![image](https://github.com/user-attachments/assets/ca91dcfd-09e3-4cca-b46b-d36d1c763015)
+
 
 
 ## Result
